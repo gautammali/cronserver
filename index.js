@@ -34,7 +34,7 @@ async function logMessage() {
   };
 
   const optionss = {
-    url: "https://cronserver.onrender.com",
+    url: "https://cronserver-96se.onrender.com/",
     method: "GET",
     headers: {
         "Content-Type" : 'application/json'
